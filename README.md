@@ -1,23 +1,77 @@
-# Next.js + Tailwind CSS Example
+<p align="center">
+  <img src="https://ik.imagekit.io/manuelalferez/one-question/readme/logo_3Ei2N-rFW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649839955580" alt="Logo" width="80">
+</p>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-## Deploy your own
+  <h3 align="center">One Question</h3>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+  <p align="center">
+    One question per day, everyone can answer. 
+    <br />
+    <a href="https://github.com/manuelalferez/one-question/wiki"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/manuelalferez/one-question">View Demo</a>
+    ·
+    <a href="https://github.com/manuelalferez/one-question/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/manuelalferez/one-question/issues">Request Feature</a>
+  </p>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-## How to use
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#description">Description</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#License">License</a></li>
+  </ol>
+</details>
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
-```
+## Description
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+<p align="center">
+    <img src="https://ik.imagekit.io/manuelalferez/one-question/readme/app-diagram_khKf2QPLK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649839667865" alt="diagram" width="550">
+</p>
+
+## Installation
+
+Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
+
+## Usage
+
+The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+
+## Contributing
+
+Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for [setting guidelines for repository contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
+
+## Contact
+
+Optional. 
+
+## License
+
+[MIT License](https://github.com/manuelalferez/one-question/blob/main/LICENSE)
+
+Permissions
+- Commercial use
+- Modification
+- Distribution
+- Private use
+
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
